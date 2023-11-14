@@ -1,1 +1,2 @@
-
+train_latent_ema.py是目前的训练文件
+训练的脚本是 train_latent.sh
